@@ -1,0 +1,22 @@
+
+.resize
+{
+	height: 400px;
+	background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#border
+{
+	padding: : 20px;
+	font-size: 30px;
+}
+.profileSize
+{
+/*border: 0.5vw solid white;
+    border-radius: 5px;
+    box-shadow: 1px 1px 1px 1px silver;*/
+ width: 150px;
+ height: 100px;
+}

@@ -1,0 +1,17 @@
+html
+{
+	height: 100%;
+}
+
+section
+{
+	height: 100%;
+}
+#feeds
+{
+	height: 100%;
+}
+.bord
+{
+	border-top: 1px solid black;
+}
